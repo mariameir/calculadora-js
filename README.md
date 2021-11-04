@@ -14,7 +14,7 @@ Um projeto  web simples, que consiste em uma calculadora que executa algumas ope
 
 <p align="center"><code> <a name="status"></a><i>🚀 Status: Finalizado 🚀</i> </code ></p>
 <br>
-### <a  name="tecnologias-utilizadas"></a>  Tecnologias Utilizadas
+ <a  name="tecnologias-utilizadas"></a>  Tecnologias Utilizadas
 
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
