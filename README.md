@@ -19,5 +19,8 @@ Um projeto  web simples, que consiste em uma calculadora que executa algumas ope
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+<br>
+[Clique para ver o projeto](https://mariameir.github.io/calculadora-js/)
 
 <p align="center"><code> <a name="status"></a><i>🚀 Status: Finalizado 🚀</i> </code ></p>
+
